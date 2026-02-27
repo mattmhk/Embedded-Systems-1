@@ -1,0 +1,3 @@
+Max value is 96.97MW in line 96013
+Min value is -2.76MW in line 101086
+Average value is 68.1 MW
